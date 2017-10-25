@@ -1,5 +1,5 @@
-# Machine-Learning-Algorthims
-Codes for popular algorithms from scratch
+# Machine Learning Algorthims
+Codes for a few popular ML algorithms from scratch.
 
 Inspiration from the popular <a href="https://github.com/pavleenkaur/Machine-Learning-Algorthims"/>Machine Learning Course by Andrew Ng</a>
 
